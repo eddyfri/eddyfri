@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eddyfri&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="Stats Graph" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddyfri&theme=merko" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eddyfri&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="Stats Graph" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddyfri&theme=merko&hide_border=true" alt="GitHub Streak" width="400"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eddyfri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&hide=jupyter%20%notebook,tex" height="150" alt="Top Languages" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eddyfri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&hide=jupyter%20%notebook,tex" height="150" alt="Top Languages" width="300"/>
 </p>
 
 ---
